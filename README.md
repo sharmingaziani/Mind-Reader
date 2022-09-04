@@ -7,6 +7,6 @@ displaying random numbers each time.
 
 Press y or n depending on whether the number you're thinking of is present on the cards.
 
-After a few cards the program will guess the number you were thinking of! 
+After a few cards the program will guess the number you were thinking of based on your answers to the previous questions. 
 
 Have fun playing!
